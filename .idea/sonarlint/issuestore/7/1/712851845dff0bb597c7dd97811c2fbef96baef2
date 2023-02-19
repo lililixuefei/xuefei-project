@@ -1,0 +1,37 @@
+
+A
+java:S1068"&Remove this unused "id" private field.(şÓî«şÿÿÿÿ
+E
+java:S1068"*Remove this unused "appKey" private field.(›×Æ¡ùÿÿÿÿ
+>
+java:S1068")Remove this unused "misId" private field.(—ùŸ&
+I
+java:S1068$".Remove this unused "operatorId" private field.(àé®»şÿÿÿÿ
+=
+java:S1068)"(Remove this unused "info" private field.(‘ôê
+G
+java:S1068.",Remove this unused "business" private field.(§ğ°ûÿÿÿÿ
+E
+java:S10683"*Remove this unused "module" private field.(Ğ•îñÿÿÿÿÿ
+?
+java:S10688")Remove this unused "value" private field.(ŸÑÆ÷
+I
+java:S1068=".Remove this unused "methodName" private field.(Ó•™¢ıÿÿÿÿ
+@
+java:S1068B"*Remove this unused "params" private field.(Â’¡
+>
+java:S1068G")Remove this unused "event" private field.(œá“R
+J
+java:S1068L"/Remove this unused "consumeTime" private field.(˜‡Ÿäşÿÿÿÿ
+A
+java:S1068Q"+Remove this unused "logType" private field.(ÿÖâú
+N
+java:S1068V"3Remove this unused "exceptionDetail" private field.(³ÌËóşÿÿÿÿ
+D
+java:S1068[")Remove this unused "objId" private field.(ò¥¨ÿÿÿÿÿ
+A
+java:S1068`"+Remove this unused "objName" private field.(£«Ñ
+B
+java:S1068e",Remove this unused "platForm" private field.(ˆÑÂû
+A
+java:S1068k"+Remove this unused "addTime" private field.(•ËÃ
